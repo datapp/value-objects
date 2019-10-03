@@ -1,0 +1,15 @@
+{
+    "name": "datapp/value-objects",
+    "require": {
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.3",
+        "phpstan/phpstan": "^0.11.16"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
